@@ -1,0 +1,27 @@
+{
+  "name": "hdfc-retirement-calculator",
+  "version": "1.0.0",
+  "description": "HDFC Mutual Fund – Retirement Planning Calculator | FinCal Innovation Hackathon · IIT-BHU",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "15.5.9",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "chart.js": "^4.4.1",
+    "react-chartjs-2": "^5.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^8",
+    "eslint-config-next": "15.5.9"
+  },
+  "engines": {
+    "node": "22.11.0",
+    "npm": "10.9.0"
+  }
+}
